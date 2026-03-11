@@ -225,7 +225,7 @@ const Donate = () => {
                       Your Details
                     </h3>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
-                      <div className="col-span-2">
+                      <div className="md:col-span-2">
                         <label className="block text-xs font-medium text-gray-500 mb-1 ml-1">
                           Full Name
                         </label>
